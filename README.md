@@ -182,6 +182,10 @@ docker run -d -p 8080:8080 --name v2ray --restart=always -v /etc/v2ray:/etc/v2ra
 - Inside the app, you must be able to see a "Share" icon in front of your profile name. Touch it and choose **Export to clipboard**.
 - This is the URL (starting with `vmess://`) that you should give out to your friends and family.
 
+Windows :
+
+download zip file and use it
+
 ## Credits
 - [ShadowsocksR](https://github.com/shadowsocksrr/shadowsocksr)
 - [ShadowsocksR's Docker Image](https://github.com/alibo/shadowrocket-docker)
